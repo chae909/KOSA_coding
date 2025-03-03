@@ -1,5 +1,4 @@
 package KOSA_coding;
-import java.util.Scanner;
 
 public class Member {
     private String name;
